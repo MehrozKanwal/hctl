@@ -1,4 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&family=Open+Sans:wght@300&family=Roboto:wght@300&family=Rubik:wght@300&display=swap');
 
+
+
+.dvivder .divider-horizontal {
+    height: 2rem!important;
+    margin:  1rem;
+}
